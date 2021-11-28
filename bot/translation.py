@@ -10,6 +10,7 @@ class Translation(object):
     
     HELP_TEXT = """
     <b>no gone help you </b>
+    """
     
     ABOUT_TEXT = """
     <b>Sorry</b>
