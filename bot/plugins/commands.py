@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📀OTT UPDATE📀', url=f"{cw_ott_updates}"
+                                    '📀OTT UPDATE📀', url=f"{https://t.me/cw_ott_updates}"
                                 )
                         ]
                     ]
