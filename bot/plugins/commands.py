@@ -64,12 +64,6 @@ async def start(bot, update):
                                 (
                                     '🍿New Movies🍿', url=f"{MT_CHANNEL}"
                                 )
-                        ],
-                        [
-                            InlineKeyboardButton
-                                (
-                   
-                                )
                         ]
                     ]
                 )
