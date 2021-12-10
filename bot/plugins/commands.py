@@ -54,7 +54,8 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = f' <code>{file_name}</code>\n<b>🎖🔰 Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ 🔰🎖\n✯ ━━━━━━━✧━━━━━━━━ ✯\n@CW_LINKS | @WEB_SEARIES</b>, 
+                caption = f`<code>{file_name}</code>\n\n🎖🔰 Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ 🔰🎖\n✯ ━━━━━━━✧━━━━━━━━ ✯\n@CW_LINKS | @WEB_SEARIES'
+
 
  ',
                 parse_mode="html",
