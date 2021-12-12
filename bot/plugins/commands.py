@@ -57,7 +57,7 @@ async def start(bot, update):
                 caption = f` <code>{file_name}</code>\n\n🎖🔰 Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ 🔰🎖\n✯ ━━━━━━━✧━━━━━━━━ ✯\n@CW_LINKS | @WEB_SEARIES'
 
 
- ',
+
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
